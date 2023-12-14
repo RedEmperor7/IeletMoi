@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="CSS/Main.css" rel="stylesheet">
+    <link href="public/CSS/main.css" rel="stylesheet">
     <title>IEL & MOI</title>
-    <link rel = "icon" type = "image/png" href = "Accueil/image/logo.png">
+    <link rel = "icon" type = "image/png" href = "public/image/logo.png">
 </head>
 <body>
     <header>
         <nav class="menu">
             <ul>
-                <img class="logo" src="Accueil/image/logo_groupe.png" width="10%"></a>
-                <li class="barre"><a href="Contact.html">Contact</a></li>
-                <li class="barre"><a href="Presentation.html">Présentation</a></li>
-                <li class="barre"><a href="Temoignages.html">Témoignage</a></li>
-                <li class="barre"><a href="formulaire.html">Formulaire</a></li>
-                <li class="barre"><a href="Accueil.html">Accueil</a></li>
+                <img class="logo" src="public/image/logo_groupe.png" width="10%"></a>
+                <li class="barre"><a href="Contact.php">Contact</a></li>
+                <li class="barre"><a href="Presentation.php">Présentation</a></li>
+                <li class="barre"><a href="Temoignages.php">Témoignage</a></li>
+                <li class="barre"><a href="formulaire.php">Formulaire</a></li>
+                <li class="barre"><a href="Accueil.php">Accueil</a></li>
             </ul>
         </nav>
     </header> 
